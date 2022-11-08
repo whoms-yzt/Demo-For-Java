@@ -1,13 +1,13 @@
-package com.whom;
+package com.whom.whm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShiroSpringbootApplicationTests {
+class SpringbootShiroApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
