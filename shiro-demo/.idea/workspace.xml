@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0aa63b74-f8c7-4e0b-a7d0-9d7045df0bc3" name="变更" comment="1.重构项目">
+      <change afterPath="$PROJECT_DIR$/../springboot-demo/.fleet/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-demo/springboot-swagger/src/main/java/com/whom/config/MinioClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-demo/springboot-swagger/src/main/java/com/whom/utils/MinioUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-demo/springboot-swagger/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-demo/springboot-swagger/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-demo/springboot-swagger/src/main/java/com/whom/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-demo/springboot-swagger/src/main/java/com/whom/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-demo/springboot-swagger/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-demo/springboot-swagger/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F4ZpFmq79Waa8m7HhKvS5oT5nh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/whom/Desktop/whomStudy/shiro-demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "f6546017f821c033b077701c0388b787"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ShiroSpringbootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whom.ShiroSpringbootApplication" />
+      <module name="shiro-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ShiroSpringbootApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0aa63b74-f8c7-4e0b-a7d0-9d7045df0bc3" name="变更" comment="" />
+      <created>1663753497662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663753497662</updated>
+      <workItem from="1667784468956" duration="1267000" />
+      <workItem from="1667787107649" duration="2811000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.重构项目">
+      <created>1663753756103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663753756103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="1.重构项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.重构项目" />
+  </component>
+</project>

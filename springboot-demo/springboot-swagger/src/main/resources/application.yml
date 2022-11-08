@@ -1,0 +1,22 @@
+server:
+  port: 8859
+
+spring:
+#配置文件上传大小限制
+  servlet:
+    multipart:
+      max-file-size: 200MB
+      max-request-size: 200MB
+
+# 文件服务器配置
+minio:
+  local:
+    endpoint: http://175.178.123.227:9001
+    accessKey: root
+    secretKey: password
+    bucketName: test
+  tx:
+    endpoint: http://127.0.0.1:9001
+    accessKey: minioadmin
+    secretKey: minioadmin
+    bucketName: test
