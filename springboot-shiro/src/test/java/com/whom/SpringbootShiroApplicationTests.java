@@ -1,4 +1,4 @@
-package com.whom.whm;
+package com.whom;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
